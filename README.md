@@ -20,8 +20,7 @@
 ==============================================================================================
 
 
-  Nathan Baraka
-  Team Collaboration Challenge
+#  Nathan Baraka
 
 - Fun Fact: I can jazz on the piano
 
