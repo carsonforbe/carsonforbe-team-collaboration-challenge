@@ -4,8 +4,10 @@
 - **Fun Fact:** I like robotics anything to do with humanoids and also an anime fan.
 - **Favorite Tech Stack:** Javascript(Vuejs, React, Ionic Framework), python(Django), Golang
 - **GitHub:** [https://github.com/stanleykaris](https://github.com/stanleykaris)
-=======
-  NAthan Baraka
+==============================================================================================
+
+
+  Nathan Baraka
   Team Collaboration Challenge
 
 - Fun Fact: I can jazz on the piano
